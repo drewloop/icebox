@@ -1,5 +1,5 @@
 # icebox
-GUI-driven, cross-platform password manager with support for vault file export and inheritor plans.
+Portable GUI-driven password manager with support for vault file export and inheritor plans.
 
 
 Goals:
